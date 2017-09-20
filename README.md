@@ -1,2 +1,9 @@
 # hello-world
-2333333333333333333
+
+int main()
+{
+printf("hello-world\n");
+
+return 0;
+
+}
